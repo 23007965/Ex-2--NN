@@ -257,7 +257,25 @@ print("Accuracy:", accuracy_score(y_test, y_pred) * 100)
 
 # OUTPUT:
 
+![image](https://github.com/user-attachments/assets/f09c7b7d-13f4-4333-9d7f-6a89da59b89a)
 
+![image](https://github.com/user-attachments/assets/326464f5-6781-41ce-80f6-ff803b6f1367)
+
+![image](https://github.com/user-attachments/assets/51745bbb-fd2b-46da-b5ec-c65ad927c636)
+
+![image](https://github.com/user-attachments/assets/61862404-517f-4c72-9ae0-a4730ccb82ae)
+
+![image](https://github.com/user-attachments/assets/074d2ce1-f025-427a-a846-e0110523f200)
+
+![image](https://github.com/user-attachments/assets/015cd833-5635-4b1f-9c4f-1740866471f6)
+
+![image](https://github.com/user-attachments/assets/0831e559-461e-4ac0-8b89-8b49108d6747)
+
+![image](https://github.com/user-attachments/assets/83f461da-7e5c-474a-ba36-d9bb56eed0a9)
+
+![image](https://github.com/user-attachments/assets/39001560-69a1-4c19-8cf0-003065f2f1f8)
+
+![image](https://github.com/user-attachments/assets/d892f048-eaaa-4536-bdf1-b16b06a96054)
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
